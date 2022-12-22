@@ -2,11 +2,7 @@ pub fn add(left: usize, right: usize) -> usize {
     left + right
 }
 
-struct neuron {
 
-
-
-}
 
 #[cfg(test)]
 mod tests {
